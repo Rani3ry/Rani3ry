@@ -1,14 +1,59 @@
-- 👋 Hi, I’m @Rani3ry
-- 👀 I’m interested in software development and information security
-- 🌱 I’m currently learning about project management and operacional resarch
-- 💞️ I’m looking to collaborate in areas focused on development
-- 📫 How to reach me
-      My email: villasboaskaka12@gmail.com
-      My Linkedin profile: https://www.linkedin.com/in/kaique-raniery-nunes-villas-boas-327a9919b/
-- ⚡ Fun fact: I was responsible for designing the network infrastructure of several cities such as
-                Itanhém and Bauru, in my current job
+# Olá, eu sou Kaique Raniery!
 
-<!---
-Rani3ry/Rani3ry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tenho 22 anos, sou formado como Técnico em Mecatrônica pelo SENAI e atualmente estou cursando o Bacharelado em Ciência da Computação pela UNIP.
+
+Atuo como desenvolvedor de projetos na área de Telecomunicações, mas estou desenvolvendo meus conhecimentos e habilidades para a área de Programação, com foco no Desenvolvimento, Análise de Dados e Segurança da Informação.
+
+:rocket: Sou apaixonado por programação e tenho muita afinidade com linguagem de códigos. Estou sempre em busca de aprimorar meus conhecimentos ! :rocket:
+
+# Minhas Habilidades
+
+## Linguagens de Marcação e Estilo
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+## Linguagens de Programação
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+## Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=Oracle&logoColor=F80000)
+
+## Sistemas Operacionais 
+
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+## Ferramentas
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AutoCAD Badge](https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=fff&style=for-the-badge)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+# Competências
+
+- Comunicação
+- Organização
+- Trabalho em equipe
+- Vontade de aprender
+- Relações Internas
+- Autonomia
+
+# Conecte-se Comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-raniery-nunes-villas-boas-327a9919b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rani3ry)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/villasboaskaka12)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaavillas.12/)
+
+# Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:villasboaskaka12@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511989491642)
